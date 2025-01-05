@@ -30,7 +30,7 @@ ang = 100
 line_1.set_data(np.repeat((ang * (np.pi/180)), 2), np.linspace(0.0, r_max, 2))
 
 
-# plt.show()
+plt.show()
 
 
 
